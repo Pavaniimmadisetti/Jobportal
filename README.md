@@ -2,6 +2,8 @@
 
 This is a full-stack Job Portal web application developed using React.js, Node.js, Express, and MySQL. The application allows users to register, login, view available jobs, and apply for them. It provides a simple and efficient platform for managing job listings and applications.
 
+Access the live application here:  
+https://hire-talent-app.lovable.app/
 ## Features
 
 - User Registration and Login
@@ -57,5 +59,5 @@ Import `database/schema.sql` into MySQL.
 Pavani Immadisetti  
 GitHub: https://github.com/Pavaniimmadisetti
 
-## Project Structure
+
 
